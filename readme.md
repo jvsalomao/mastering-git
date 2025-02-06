@@ -14,6 +14,8 @@
 
 - git checkout -f main
 
+- git switch [branch name]
+
 - git remote add origin [git https or ssh]
 
 - git push -u origin main
@@ -21,3 +23,5 @@
 - git pull origin main
 
 - git branch [new branch name]
+
+- git push --set-upstream origin [new branch name]
