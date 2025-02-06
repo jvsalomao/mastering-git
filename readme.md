@@ -8,6 +8,10 @@
 
 ## git commit -m ""
 
-## git checkout
+## git checkout [commit hash]
 
 ## git checkout -f main
+
+## git remote add origin [git https or ssh]
+
+## git push -u origin main
