@@ -25,3 +25,5 @@
 - git branch [new branch name]
 
 - git push --set-upstream origin [new branch name]
+
+- git branch [-d or -D to force delete a branch] [branch name]
