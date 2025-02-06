@@ -1,17 +1,19 @@
-## Hello, Git!
+# Hello, Git!
+## Commands 
+- git status
 
-## git status
+- git log
 
-## git log
+- git add .
 
-## git add .
+- git commit -m ""
 
-## git commit -m ""
+- git checkout [commit hash]
 
-## git checkout [commit hash]
+- git checkout -f main
 
-## git checkout -f main
+- git remote add origin [git https or ssh]
 
-## git remote add origin [git https or ssh]
+- git push -u origin main
 
-## git push -u origin main
+- git pull origin main
