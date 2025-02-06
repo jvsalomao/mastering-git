@@ -1,5 +1,7 @@
 # Hello, Git!
-## Commands 
+
+## Commands
+
 - git status
 
 - git log
@@ -8,7 +10,7 @@
 
 - git commit -m ""
 
-- git checkout [commit hash]
+- git checkout [commit hash or branch]
 
 - git checkout -f main
 
@@ -17,3 +19,5 @@
 - git push -u origin main
 
 - git pull origin main
+
+- git branch [new branch name]
